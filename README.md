@@ -75,7 +75,7 @@ Remove a tarefa indicada pelo ID.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/atividade-guiada-aula-01-frameworks-2.git
+git clone https://github.com/olivdmt/atividade-guiada-aula-01-frameworks-2
 cd atividade-guiada-aula-01-frameworks-2
 ```
 
